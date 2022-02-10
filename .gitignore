@@ -1,0 +1,15 @@
+/target
+/.idea
+log
+/out
+*.iml
+target/
+mybatis-generator/src/com
+
+*.class
+
+*.jar
+*.war
+*.zip
+*.rar
+*.tar.gz
